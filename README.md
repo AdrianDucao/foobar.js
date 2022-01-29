@@ -8,7 +8,7 @@ npm i foobar.js
 
 ## Adding Module
 ```javascript
-const foo = require('foobar.js');
+const foobar = require('foobar.js');
 ```
 ## Usage
 ```javscript
