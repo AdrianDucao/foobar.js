@@ -1,8 +1,7 @@
 {
   "name":"foobar.js",
   "version":"1.0.0",
-  "description":"Random fake data generator for test and development purposes."
-},
+  "description":"Random fake data generator for test and development purposes.",
 {
   "repository":{
     "type":"git",
@@ -19,3 +18,5 @@
 ],
 "author": "Adrian Ducao <AdrianDucao>(https://github.com/AdrianDucao)",
 "license": "(MIT)"
+"homepage":"https://github.com/AdrianDucao/foobar.js"
+}
