@@ -16,8 +16,9 @@ let fname = foobar.firstName('female');
 let lname = foobar.lastName();
 ```
 
-## Generate Data
+## Functions
 |example           |Description|
 |------------------|-----------|
 |.firstName('type')|generates ```male``` or ```female``` firstnames|
 |.lastname()       |generates lastname|
+|.phoneNumber()    |generates random 11 digit phone number|
