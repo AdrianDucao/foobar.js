@@ -1,0 +1,22 @@
+{
+  "name":"foobar.js",
+  "version":"1.0.0",
+  "description":"Random fake data generator for test and development purposes."
+},
+{
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/AdrianDucao/foobar.js.git"
+  }
+},
+"keywords":[
+  "fake data",
+  "javascript",
+  "name generator",
+  "random data generator",
+  "data generator",
+  "generator"
+],
+"author": "Adrian Ducao <AdrianDucao>(https://github.com/AdrianDucao)",
+"license": "BSD-3 Clause",
+"homepage":"https://github.com/AdrianDucao/foobar.js"
