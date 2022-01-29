@@ -21,4 +21,4 @@ let lname = foobar.lastName();
 |------------------|-----------|
 |.firstName('type')|generates ```male``` or ```female``` firstnames|
 |.lastname()       |generates lastname|
-|.phoneNumber()    |generates random 10 digit phone number|
+|.phoneNumber('country')    | can generate data specific phone number based on location i.e. ```US```, ```PH```|
