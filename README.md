@@ -18,5 +18,6 @@ let lname = foobar.lastName();
 
 ## Generate Data
 |example           |Description|
+|------------------|-----------|
 |.firstName('type')|generates ```male``` or ```female``` firstnames|
 |.lastname()       |generates lastname|
