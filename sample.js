@@ -8,3 +8,4 @@ let phonePH = foobar.phoneNumber('PH');
 console.log("Complete Name: "+fname +" "+ lname);
 console.log("US Phone#:"+ phoneUS);
 console.log("PH Phone#:"+ phonePH);
+console.log(foobar.country());
