@@ -15,3 +15,5 @@ console.log("Country: "+Country);
 console.log("Specific Province/State: "+specProvince);
 console.log("");
 console.log("Random Province/State: "+province);
+
+console.log("alternative use case for specific state/province: "foobar.province(foobar.country()));

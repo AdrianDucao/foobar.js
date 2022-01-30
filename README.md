@@ -23,4 +23,4 @@ let lname = foobar.lastName();
 |.lastname()       |generates lastname|
 |.phoneNumber(```param```)    | can generate data specific phone number based on location i.e. ```US```, ```PH```|
 |.country()|generates random country|
-|.province(```param```)|can generate specific state by puting variable from .country() as its parameter or leave it bnalk for random province/state|
+|.province(```param```)|can generate specific state by puting variable from ```.country()``` e.g. ```.province(variable)``` as its parameter or leave it blank for random province/state like so ```.province()```, another use case is to put the .country() to .province() parameter like so ```.province(foobar.country())```|
