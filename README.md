@@ -19,7 +19,8 @@ let lname = foobar.lastName();
 ## Functions
 |example           |Description|
 |------------------|-----------|
-|.firstName('type')|generates ```male``` or ```female``` firstnames|
+|.firstName(```param```)|generates random or specific ```male``` or ```female``` firstnames|
 |.lastname()       |generates lastname|
-|.phoneNumber('country')    | can generate data specific phone number based on location i.e. ```US```, ```PH```|
+|.phoneNumber(```param```)    | can generate data specific phone number based on location i.e. ```US```, ```PH```|
 |.country()|generates random country|
+|.province(```param```)|can generate specific state by puting variable from .country() as its parameter or leave it bnalk for random province/state|
