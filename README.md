@@ -19,7 +19,7 @@ let lname = foobar.lastName();
 ## Functions
 |example           |Description|
 |------------------|-----------|
-|.firstName(```param```)|generates random or specific ```male``` or ```female``` firstnames|
+|.firstName(```param```)|generates random with blank parameter or gender specific names by placing  ```'male'``` or ```'female'``` as parameters|
 |.lastname()       |generates lastname|
 |.phoneNumber(```param```)    | can generate data specific phone number based on location i.e. ```US```, ```PH```|
 |.country()|generates random country|
